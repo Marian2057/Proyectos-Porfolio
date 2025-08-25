@@ -1,4 +1,4 @@
-Análisis de Transacciones y Estrategias de Descuento
+## Análisis de Transacciones y Estrategias de Descuento
 Descripción del Proyecto
 
 Este informe se basa en un extenso conjunto de datos recopilados con el objetivo de analizar las transacciones de clientes y evaluar el impacto de las estrategias de descuento en las ventas. Cada fila del dataset representa una transacción única, incluyendo detalles como:
