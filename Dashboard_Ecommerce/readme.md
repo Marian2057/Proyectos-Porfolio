@@ -18,9 +18,7 @@ La riqueza de esta información permite explorar patrones de compra, evaluar el 
 Se realizó una revisión exhaustiva de la calidad del dataset, destacando:
 
 * Consistencia estructural
-
 * Ausencia de duplicados
-
 * Ausencia de datos faltantes en las columnas relevantes
 
 Estas características garantizan que los análisis realizados se basen en datos confiables y representativos.
@@ -30,9 +28,7 @@ Estas características garantizan que los análisis realizados se basen en datos
 Se propone una métrica centrada en evaluar el impacto de las estrategias de descuento sobre las ventas y ganancias. Esta métrica permite:
 
 * Identificar la efectividad de campañas promocionales
-
 * Comparar resultados entre distintos productos o categorías
-
 * Brindar a los departamentos de ventas y análisis de datos una herramienta para optimizar futuras promociones
 
 ## Conclusión
