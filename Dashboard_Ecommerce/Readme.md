@@ -1,0 +1,5 @@
+Este informe se basa en un extenso conjunto de datos recopilados con el objetivo de arrojar luz sobre las transacciones de los clientes y, en particular, analizar el impacto de las estrategias de descuento en las ventas.
+El conjunto de datos que estamos explorando tiene una visión detallada de cada transacción de ventas y envíos de una empresa. Esta riqueza de información ofrece la oportunidad de explorar patrones de compra, evaluar el rendimiento de los productos y, en última instancia, mejorar la toma de decisiones empresariales.
+Cada fila representa una transacción única, incluyendo detalles como el tipo de envío, la fecha del pedido, la fecha de envío, la categoría del producto, la cantidad, el descuento aplicado, las ganancias y más. 
+En la primera sección, se aborda la integridad y confiabilidad de los datos, destacando la consistencia estructural, la ausencia de duplicados y de datos faltantes. 
+Posteriormente, se propone una métrica de desempeño centrada en evaluar el impacto de las estrategias de descuento, facilitando a los departamentos de ventas y análisis de datos una herramienta efectiva para medir la eficacia de las campañas promocionales.
