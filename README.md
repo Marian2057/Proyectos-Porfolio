@@ -28,19 +28,15 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 ## 🚀 Proyectos Destacados
 
-* **[Proyecto Justina](#)**: Simulación de trabajo real asumiendo el rol de BI Analyst para evaluar viabilidad clínica.
-* **[Monitoreo de Crecimiento Sostenible](#)**: Análisis de datos con foco en impacto ESG.
-* **[Fraude Financiero y Ecommerce](#)**: Proyectos de Análisis Exploratorio y Limpieza de Datos (EDA) utilizando Python y Pandas.
-
 * **[Proyecto Justina](#)**:
 
 "Simulación de rol como BI Analyst para evaluar viabilidad clínica. Diseñé tableros en Power BI que transformaron datos complejos en indicadores clave, asegurando la integridad de la información para la toma de decisiones médicas."
 
-**[Monitoreo de Crecimiento Sostenible](#)**:
+* **[Monitoreo de Crecimiento Sostenible](#)**:
 
 "Análisis de datos con foco en impacto ESG. Desarrollé un modelo de seguimiento que permite visualizar el progreso de métricas de sostenibilidad, facilitando reportes de transparencia y cumplimiento corporativo."
 
-**[Fraude Financiero y Ecommerce](#)**:
+* **[Fraude Financiero y Ecommerce](#)**:
 
 "Ejecución de Análisis Exploratorio y Limpieza de Datos (EDA) utilizando Python y Pandas. Identifiqué patrones de comportamiento sospechoso y anomalías, optimizando la calidad de los datos para modelos de prevención de fraude."
 
