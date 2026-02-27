@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy [Tu Nombre/Usuario]</h1>
+  <h1>¡Hola! 👋 Soy Marianela</h1>
   <h3>Analista de Datos en formación | Data Science & BI</h3>
   
   <a href="https://portfolio-web-v563.onrender.com/" target="_blank">
