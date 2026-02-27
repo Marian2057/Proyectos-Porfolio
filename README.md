@@ -30,7 +30,7 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 * **[Proyecto Justina](#)**:
 
-"Simulación de rol como BI Analyst para evaluar viabilidad clínica. Diseñé tableros en Power BI que transformaron datos complejos en indicadores clave, asegurando la integridad de la información para la toma de decisiones médicas."
+"Simulación de rol como BI Analyst para evaluar viabilidad clínica. Diseñé tableros en Power BI que transformaron datos complejos en indicadores clave, asegurando la integridad de la información para la toma de decisiones."
 
 * **[Monitoreo de Crecimiento Sostenible](#)**:
 
