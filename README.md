@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Marianela</h1>
-  <h3>Analista de Datos en formación | Data Science & BI</h3>
+  <h3>Analista de Datos | Data Science & BI</h3>
   
   <a href="https://portfolio-web-v563.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visitar_Web-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio Web">
