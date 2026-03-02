@@ -36,7 +36,7 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 "Análisis de datos con foco en impacto ESG. Desarrollé un modelo de seguimiento que permite visualizar el progreso de métricas de sostenibilidad, facilitando reportes de transparencia y cumplimiento corporativo."
 
-* **[Fraude Financiero y Ecommerce](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md](https://github.com/Marian2057/Proyectos-Porfolio/tree/main/Fraude-Financiero)**:
+* **[Fraude Financiero y Ecommerce](https://github.com/Marian2057/Proyectos-Porfolio/tree/main/Fraude-Financiero)**:
 
 "Ejecución de Análisis Exploratorio y Limpieza de Datos (EDA) utilizando Python y Pandas. Identifiqué patrones de comportamiento sospechoso y anomalías, optimizando la calidad de los datos para modelos de prevención de fraude."
 
