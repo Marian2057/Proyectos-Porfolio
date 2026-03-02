@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Marianela</h1>
+  <h1>¡Hola! Soy Marianela</h1>
   <h3>Analista de Datos | Data Science & BI</h3>
   
   <a href="https://portfolio-web-v563.onrender.com/" target="_blank">
@@ -9,11 +9,11 @@
 
 <br/>
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 Analista de Datos enfocada en la integridad de la información y el detalle visual. Desarrollo soluciones en Power BI asegurando la calidad del dato desde su origen hasta la visualización. Soy proactiva, transparente en mi comunicación y altamente adaptable frente a nuevos desafíos tecnológicos, enfocándome siempre en aportar claridad a los equipos.
 
 
-## 🛠️ Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 **Análisis & Datos:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 * **[Proyecto Justina](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md)**:
 
