@@ -28,7 +28,7 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 ## 🚀 Proyectos Destacados
 
-* **[Proyecto Justina](#)**:
+* **[Proyecto Justina](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md)**:
 
 "Simulación de rol como BI Analyst para evaluar viabilidad clínica. Diseñé tableros en Power BI que transformaron datos complejos en indicadores clave, asegurando la integridad de la información para la toma de decisiones."
 
@@ -36,7 +36,7 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 "Análisis de datos con foco en impacto ESG. Desarrollé un modelo de seguimiento que permite visualizar el progreso de métricas de sostenibilidad, facilitando reportes de transparencia y cumplimiento corporativo."
 
-* **[Fraude Financiero y Ecommerce](#)**:
+* **[Fraude Financiero y Ecommerce](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md)**:
 
 "Ejecución de Análisis Exploratorio y Limpieza de Datos (EDA) utilizando Python y Pandas. Identifiqué patrones de comportamiento sospechoso y anomalías, optimizando la calidad de los datos para modelos de prevención de fraude."
 
