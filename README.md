@@ -28,11 +28,11 @@ Analista de Datos enfocada en la integridad de la información y el detalle visu
 
 ## 🚀 Proyectos Destacados
 
-* **[Proyecto Justina]([#](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md))**:
+* **[Proyecto Justina](#)**:
 
 "Simulación de rol como BI Analyst para evaluar viabilidad clínica. Diseñé tableros en Power BI que transformaron datos complejos en indicadores clave, asegurando la integridad de la información para la toma de decisiones."
 
-* **[Monitoreo de Crecimiento Sostenible]([#](https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md))**:
+* **[Monitoreo de Crecimiento Sostenible]((https://github.com/Marian2057/Proyectos-Porfolio/edit/main/Justina-Robot-Quir%C3%BArgico/readme.md))**:
 
 "Análisis de datos con foco en impacto ESG. Desarrollé un modelo de seguimiento que permite visualizar el progreso de métricas de sostenibilidad, facilitando reportes de transparencia y cumplimiento corporativo."
 
